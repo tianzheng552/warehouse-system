@@ -1,4 +1,4 @@
-﻿import express from "express";
+import express from "express";
 import cors from "cors";
 import healthRouter from "./routes/health";
 import inventoryRouter from "./routes/inventory";
